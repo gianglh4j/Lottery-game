@@ -37,7 +37,7 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "seedrandom": "^3.0.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "npm-run-all  start-js",
